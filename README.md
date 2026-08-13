@@ -1,6 +1,6 @@
 # Simulación Monte Carlo del modelo de Ising
 
-Trabajo grupal de la materia **Mecánica Estadística** (FCEyN, UBA, 2026). Proyecto colaborativo realizado en equipo de 5 integrantes.
+Trabajo grupal de la materia **Mecánica Estadística** (FCEyN, UBA, 2025). Proyecto colaborativo realizado en equipo de 5 integrantes.
 
 ## Objetivo
 
